@@ -1,4 +1,4 @@
-# this project for studing core bluetooth
+# this project for studying core bluetooth
 
 This project use SpriteBuilder and swift.
 
